@@ -1,2 +1,0 @@
-# nexto-app
-Nexto App
